@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cow548/static/css/main.9d820e14.css",
-    "main.js": "/cow548/static/js/main.61d8f8a1.js",
-    "index.html": "/cow548/index.html",
-    "main.9d820e14.css.map": "/cow548/static/css/main.9d820e14.css.map",
-    "main.61d8f8a1.js.map": "/cow548/static/js/main.61d8f8a1.js.map"
+    "main.css": "/bowling_app_2022/static/css/main.9d820e14.css",
+    "main.js": "/bowling_app_2022/static/js/main.61d8f8a1.js",
+    "index.html": "/bowling_app_2022/index.html",
+    "main.9d820e14.css.map": "/bowling_app_2022/static/css/main.9d820e14.css.map",
+    "main.61d8f8a1.js.map": "/bowling_app_2022/static/js/main.61d8f8a1.js.map"
   },
   "entrypoints": [
     "static/css/main.9d820e14.css",
